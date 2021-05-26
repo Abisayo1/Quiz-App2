@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "question": "Who is the President of the Federal Republic of Nigeria?",
+    "answers": [
+      "Mallam Abba Kyari",
+      "Muhammadu Buhari",
+      "Asiwaju Bola Ahmed Tinubu",
+      "Abisayo John Folu-Agoi"
+    ],
+    "correct_answer": "Muhammadu Buhari"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following programming language is statically typed?",
+    "answers": [
+      "Python",
+      "Javascript",
+      "Java",
+      "Ruby"
+    ],
+    "correct_answer": "Java"
+  },
+  {
+    "id": 3,
+    "question": "The first African to win the Noble Price in Literature is?",
+    "answers": [
+      "Oluwole Akinwande Soyinka",
+      "Pete Edochie",
+      "Nelson Mandela",
+      "Rev. Desmond Tutu"
+    ],
+    "correct_answer": "Oluwole Akinwande Soyinka"
+  }
+]
