@@ -44,5 +44,7 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
     // moshi
+    // we use moshi to convert the json strings in the Questions.json file into
+    // kotlin Question.kt instances
     implementation "com.squareup.moshi:moshi-kotlin:$moshi_version"
 }
